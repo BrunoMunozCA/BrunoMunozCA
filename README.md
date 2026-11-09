@@ -4,5 +4,5 @@ Estudiante de Ingeniería de Realidad virtual y diseño de juegos digitales (UBO
 - Proyectos destacados:
 1. Hola
 
-- Herramientas
+- Herramientas:
 Unity, Visual Studio, Unreal Engine, C#, HTML, Phyton, DoomEngine.
