@@ -1,12 +1,8 @@
-- Hi, I’m @BrunoMunozCA
-- I’m interested in coding...
-- I’m currently learning yes...
-- I’m looking to collaborate on stuff...
-- How to reach me idk...
-- Pronouns: Me...
-- Fun fact: Pizza...
+- Hola soy Bruno Alain Muñoz Calvo
+Estudiante de Ingeniería de Realidad virtual y diseño de juegos digitales (UBO), principalmente ocupo Unity y programo con C#, tengo conocimientos de HTML y Phyton. Actualmente desarrollando una IA propia con reinforcement learning.
 
-<!---
-BrunoMunozCA/BrunoMunozCA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Proyectos destacados:
+1. Hola
+
+- Herramientas
+Unity, Visual Studio, Unreal Engine, C#, HTML, Phyton, DoomEngine.
