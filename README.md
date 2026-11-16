@@ -4,7 +4,7 @@ Estudiante de Ingeniería de Realidad virtual y diseño de juegos digitales (UBO
 - Proyectos destacados:
 1. IA matemática básica.
 2. VR_21-08 (Trabajo en la parte de codigo del proyecto).
-3. Seamless portals (Unity)
+3. Seamless portals (Aun no disponible).
 
 - Herramientas:
 Unity, Visual Studio, Unreal Engine, C#, HTML, Phyton.
