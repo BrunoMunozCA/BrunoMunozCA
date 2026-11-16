@@ -3,7 +3,8 @@ Estudiante de Ingeniería de Realidad virtual y diseño de juegos digitales (UBO
 
 - Proyectos destacados:
 1. IA matemática base.
-2. 
+2. VR_21-08 (Trabajo en la parte de codigo del proyecto).
+3. 
 
 - Herramientas:
 Unity, Visual Studio, Unreal Engine, C#, HTML, Phyton.
