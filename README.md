@@ -4,7 +4,7 @@ Estudiante de Ingeniería de Realidad virtual y diseño de juegos digitales (UBO
 - Proyectos destacados:
 1. [IA matemática básica](https://github.com/BrunoMunozCA/IA-matematica-Basica).
 2. [VR](https://github.com/Lakuka777-jpg/VR_21-08).
-3. Seamless portals (Aun no disponible).
+3. [Seamless portals](https://github.com/BrunoMunozCA/Portales-Inmersivos-Seamless-Portals-).
 
 - Herramientas:
 Unity, Visual Studio, Unreal Engine, C#, HTML, Phyton.
